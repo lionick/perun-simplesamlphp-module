@@ -1,7 +1,8 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
-## Unreleased
+## [rciam-4.2.0] - 2022-06-23
+This version is based on upstream v4.1.1.
 
 ## Added
 
